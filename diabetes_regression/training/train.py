@@ -59,8 +59,8 @@ def get_model_metrics(model, data):
 
 
 def main():
-    print("Testing pipeline as result of master change")
     print("Running train.py")
+    print("Testing pipeline as result of master change")
 
     # Define training parameters
     ridge_args = {"alpha": 0.5}
