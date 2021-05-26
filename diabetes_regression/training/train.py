@@ -59,6 +59,7 @@ def get_model_metrics(model, data):
 
 
 def main():
+    print("Testing pipeline as result of master change")
     print("Running train.py")
 
     # Define training parameters
